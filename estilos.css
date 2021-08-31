@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Helvetica"
+}
+
+body{
+    background-color: black;
+}
+h1{
+    font-size: 20px;
+}
+
+.container{
+    background-color: white;
+    border-width: 5px;
+    border-radius: 55px;
+}
+
